@@ -1,2 +1,2 @@
-# Cryptodex
+# cryptodex
 Web3 Cryptodex
